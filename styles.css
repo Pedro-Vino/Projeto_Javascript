@@ -54,6 +54,7 @@ nav a:hover{color: #9575DE; cursor: pointer;}
     position: relative;
     flex-grow: 2;
     flex-basis: 200;
+    padding: 0.5%;
 }
 .variaveis h1{
     text-align: center;
@@ -84,7 +85,7 @@ nav a:hover{color: #9575DE; cursor: pointer;}
     position: relative;
     flex-grow: 2;
     flex-basis: 200;
-
+    padding: 0.5%;
 }
 .switch h2{
     text-align: center;
@@ -115,7 +116,7 @@ nav a:hover{color: #9575DE; cursor: pointer;}
     position: relative;
     flex-grow: 2;
     flex-basis: 200;
-
+    padding: 0.5%;
 }
 .Desvio h2{
     text-align: center;
@@ -130,4 +131,14 @@ nav a:hover{color: #9575DE; cursor: pointer;}
     border: none;
     width: 50%;
     height: 20%;
+}
+
+.informativo{
+    color: #F5F5F5;
+    margin: 2%;
+}
+.informativo a{
+    text-decoration: none;
+    color: #5D3891;
+    cursor: pointer;
 }
