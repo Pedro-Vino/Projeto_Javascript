@@ -1,2 +1,2 @@
 # Projeto_Javascript
- Esse projeto tem como intuito colocar em prática conhecimentos em Javascript integradoas a HTML e CSS
+ Esse projeto tem como intuito colocar em prática conhecimentos em Java Script integradas a HTML e CSS
